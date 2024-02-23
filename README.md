@@ -1,7 +1,7 @@
 ### Hola Como Estas !!! 👋
 
-- 🔭 Estoy trabajando en Cursos de GIT, Redes y Programacion
-- 🌱 Actualmente estoy estudiando sobre SCRUM
+- 🔭 Estoy trabajando en Java con Intellij IDEA, Redes y Programacion
+- 🌱 Actualmente estoy estudiando sobre Java Sprint Boot
 - 👯 Colaborando con la Comunidad de Software Libre de la Laguna 
 - 🤔 Si necesitas ayuda sobre algun tema que conozca con gusto te apoyo
 - 💬 Ask me about ...
